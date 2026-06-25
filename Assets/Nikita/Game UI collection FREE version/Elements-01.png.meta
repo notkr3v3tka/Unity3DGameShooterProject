@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 41f9d36bf03281046a1ccb624482255b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue L
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 3595
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8ca3109fba7d44d8deb44d92a4e9d7
+      internalID: 246729196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White L
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 3595
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae6001cb8100a458b9aa148a347354
+      internalID: -538202547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yelow L
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3580
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92cf7b5b431014687330164bc29941
+      internalID: -2036937719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yelow S
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3050
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0094cd9aea0b8fe42827b7522d512a77
+      internalID: 583965590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue S
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 3056
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6242f513f3e374798f4f354c40f028
+      internalID: 1751572337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White S
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 3057
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e108951eb173844b776ae0038a079c
+      internalID: -792545055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yelow M
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 2590
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021a5e081094884aac2fc8306df7f76
+      internalID: 2060409866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue M
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 2590
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1787611bffe35c143bd144abe1bd10a5
+      internalID: -1756387893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White M
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 2590
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af5a5e70280a541bddd2505da14b3e
+      internalID: -898666612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cbdfb5791f82ec04b925a380466376fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":20.0,"y":20.0},"gridSpriteSize":{"x":208.0,"y":208.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Blue L: 246729196
+      Blue M: -1756387893
+      Blue S: 1751572337
+      Elements-01_0: -528194021
+      Elements-01_1: -1084567182
+      Elements-01_10: -106763686
+      Elements-01_101: -1166494379
+      Elements-01_102: -1876909897
+      Elements-01_103: 2019234223
+      Elements-01_104: 2013913161
+      Elements-01_105: 249606527
+      Elements-01_106: -1168906607
+      Elements-01_107: -1122546064
+      Elements-01_108: 1185460475
+      Elements-01_109: -320083195
+      Elements-01_11: -523530965
+      Elements-01_110: -1883183529
+      Elements-01_111: 966408667
+      Elements-01_112: 1723314462
+      Elements-01_113: -805206258
+      Elements-01_114: 1164084226
+      Elements-01_115: 451970359
+      Elements-01_116: 274982915
+      Elements-01_117: -1119298447
+      Elements-01_118: 1485473733
+      Elements-01_119: 2037462032
+      Elements-01_12: -783775584
+      Elements-01_120: -1006645379
+      Elements-01_121: -819606560
+      Elements-01_122: -2115861268
+      Elements-01_123: 1726710993
+      Elements-01_124: 1840528803
+      Elements-01_125: 781763623
+      Elements-01_126: -500834253
+      Elements-01_127: -685978687
+      Elements-01_128: -472612254
+      Elements-01_129: 1149418878
+      Elements-01_13: -1881140022
+      Elements-01_130: -1682091270
+      Elements-01_131: -1616470756
+      Elements-01_132: -1092000194
+      Elements-01_133: 504839461
+      Elements-01_134: 1029424827
+      Elements-01_135: 1627981599
+      Elements-01_136: -1692259206
+      Elements-01_137: -1553848752
+      Elements-01_138: 964199945
+      Elements-01_139: -304134307
+      Elements-01_14: 1967358866
+      Elements-01_140: -1697815739
+      Elements-01_141: 251519083
+      Elements-01_142: -651105941
+      Elements-01_143: -1983275614
+      Elements-01_144: 1645771597
+      Elements-01_145: -149455559
+      Elements-01_146: 1790561
+      Elements-01_147: 2033020301
+      Elements-01_148: 2042081536
+      Elements-01_149: 832651673
+      Elements-01_15: 1347329657
+      Elements-01_150: -2100085312
+      Elements-01_151: -824228618
+      Elements-01_152: 933062481
+      Elements-01_153: 1338743164
+      Elements-01_154: -536661464
+      Elements-01_155: -1795978853
+      Elements-01_156: -1016128138
+      Elements-01_157: 627011310
+      Elements-01_158: -2016200881
+      Elements-01_159: -2057691799
+      Elements-01_16: 153673569
+      Elements-01_160: 2068386817
+      Elements-01_161: -800904879
+      Elements-01_162: 894334114
+      Elements-01_163: -1770903384
+      Elements-01_164: -290088973
+      Elements-01_165: 405266943
+      Elements-01_166: -215290838
+      Elements-01_167: 2133966038
+      Elements-01_168: -1236305547
+      Elements-01_169: -1265512365
+      Elements-01_17: 92764953
+      Elements-01_170: -476778727
+      Elements-01_171: 1123001365
+      Elements-01_172: -2110926623
+      Elements-01_173: -1392482333
+      Elements-01_174: -889459976
+      Elements-01_175: -1054708311
+      Elements-01_176: 78018602
+      Elements-01_177: -170664858
+      Elements-01_178: 620271129
+      Elements-01_179: 1409558878
+      Elements-01_18: 1618371606
+      Elements-01_180: -178279317
+      Elements-01_181: -1605449959
+      Elements-01_182: 121664808
+      Elements-01_183: 1702929085
+      Elements-01_184: -1294797590
+      Elements-01_185: 345185245
+      Elements-01_186: 725621087
+      Elements-01_187: -419372380
+      Elements-01_188: 1318666578
+      Elements-01_189: 327866774
+      Elements-01_19: 952762605
+      Elements-01_190: 678314209
+      Elements-01_191: -1036945767
+      Elements-01_192: -1283583767
+      Elements-01_193: -1920672165
+      Elements-01_194: 234407785
+      Elements-01_195: 1993005653
+      Elements-01_196: -612010221
+      Elements-01_197: 409344933
+      Elements-01_198: 34939409
+      Elements-01_199: 1380861514
+      Elements-01_2: -1564698818
+      Elements-01_20: -1303276628
+      Elements-01_200: -316437542
+      Elements-01_201: -186852546
+      Elements-01_202: -1921421461
+      Elements-01_203: 461019847
+      Elements-01_204: 1316922780
+      Elements-01_205: 380054621
+      Elements-01_206: 550731818
+      Elements-01_207: -1291238302
+      Elements-01_208: 1853644857
+      Elements-01_209: 636767731
+      Elements-01_21: 486896857
+      Elements-01_210: 2055449496
+      Elements-01_211: 889101919
+      Elements-01_212: 2032288
+      Elements-01_213: -796901246
+      Elements-01_214: 1019744674
+      Elements-01_215: -51732435
+      Elements-01_216: -1935527570
+      Elements-01_217: -1843537165
+      Elements-01_218: 281474303
+      Elements-01_219: -903617901
+      Elements-01_22: -2082518842
+      Elements-01_220: 1668057262
+      Elements-01_221: -1324423710
+      Elements-01_222: -249983090
+      Elements-01_223: -430738353
+      Elements-01_224: -1751396705
+      Elements-01_225: -1580072209
+      Elements-01_226: -549124421
+      Elements-01_227: 1791144493
+      Elements-01_228: -1746544371
+      Elements-01_229: 1996319817
+      Elements-01_23: 990181805
+      Elements-01_230: 919102611
+      Elements-01_231: 1603386023
+      Elements-01_232: -1092267548
+      Elements-01_233: 565895480
+      Elements-01_234: 525355908
+      Elements-01_235: -1565350745
+      Elements-01_236: 1539812425
+      Elements-01_237: 1755524299
+      Elements-01_238: -1514542788
+      Elements-01_239: -1642410324
+      Elements-01_24: 2004552037
+      Elements-01_240: -1185021079
+      Elements-01_241: -480333226
+      Elements-01_242: -848057483
+      Elements-01_243: -272125326
+      Elements-01_244: -1072957401
+      Elements-01_245: 1530727705
+      Elements-01_246: 212283505
+      Elements-01_247: 1088417497
+      Elements-01_248: 780079923
+      Elements-01_249: -1070484517
+      Elements-01_25: 455172431
+      Elements-01_250: -1839824412
+      Elements-01_251: -757806441
+      Elements-01_252: 351134390
+      Elements-01_253: -2007678614
+      Elements-01_254: 805276493
+      Elements-01_255: 416172254
+      Elements-01_256: -485374523
+      Elements-01_257: 1043471560
+      Elements-01_258: -167759603
+      Elements-01_259: 986212513
+      Elements-01_26: -451841425
+      Elements-01_260: -841994715
+      Elements-01_261: -1209011196
+      Elements-01_262: -710472775
+      Elements-01_263: 103665604
+      Elements-01_264: 1998970263
+      Elements-01_265: -1309377573
+      Elements-01_266: 33780136
+      Elements-01_267: -1811541794
+      Elements-01_268: -1704705808
+      Elements-01_269: -1610392459
+      Elements-01_270: 1344770070
+      Elements-01_28: 249856569
+      Elements-01_3: 1324865033
+      Elements-01_30: 313328243
+      Elements-01_31: 897498262
+      Elements-01_32: -714829551
+      Elements-01_33: 467419876
+      Elements-01_34: 2033042563
+      Elements-01_35: 1237104069
+      Elements-01_36: 1995112890
+      Elements-01_37: 673210267
+      Elements-01_38: 116508151
+      Elements-01_39: -940310437
+      Elements-01_4: -1634779338
+      Elements-01_40: -1947353586
+      Elements-01_41: 1993382794
+      Elements-01_42: 1973258618
+      Elements-01_43: -404063844
+      Elements-01_45: -572898104
+      Elements-01_46: -1385312461
+      Elements-01_47: 40259389
+      Elements-01_48: -687572689
+      Elements-01_49: -913315704
+      Elements-01_5: 1402325382
+      Elements-01_50: -2090169754
+      Elements-01_51: -1492682607
+      Elements-01_52: -1386836489
+      Elements-01_53: 1175277338
+      Elements-01_54: 1617114144
+      Elements-01_55: 448459606
+      Elements-01_56: -236333141
+      Elements-01_57: 1418481354
+      Elements-01_58: -656173152
+      Elements-01_59: -1508288085
+      Elements-01_6: 1065772186
+      Elements-01_60: 1639189375
+      Elements-01_61: 1245061266
+      Elements-01_62: 1634209901
+      Elements-01_63: -2109504218
+      Elements-01_64: -1660345194
+      Elements-01_65: 608440118
+      Elements-01_66: -1832632978
+      Elements-01_69: -958884482
+      Elements-01_7: -2080263737
+      Elements-01_71: 274915528
+      Elements-01_72: -1942965410
+      Elements-01_73: -1919361261
+      Elements-01_74: 443961936
+      Elements-01_75: -1707957761
+      Elements-01_76: 1488500408
+      Elements-01_77: -811693729
+      Elements-01_78: 670967836
+      Elements-01_79: 1020425335
+      Elements-01_8: 973544133
+      Elements-01_80: 588596842
+      Elements-01_81: 104473771
+      Elements-01_82: 946245515
+      Elements-01_83: 728056801
+      Elements-01_84: -1014107907
+      Elements-01_85: -768151562
+      Elements-01_86: -716055662
+      Elements-01_87: 1420424830
+      Elements-01_88: -1473857092
+      Elements-01_89: -539523845
+      Elements-01_9: -1448737071
+      Elements-01_90: 2080248376
+      Elements-01_91: -404867524
+      Elements-01_92: -1241260216
+      Elements-01_93: -1234038711
+      Elements-01_94: 1774822549
+      Elements-01_96: 1970955031
+      Elements-01_98: 467005608
+      Elements-01_99: 1197719230
+      White L: -538202547
+      White M: -898666612
+      White S: -792545055
+      Yelow L: -2036937719
+      Yelow M: 2060409866
+      Yelow S: 583965590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
